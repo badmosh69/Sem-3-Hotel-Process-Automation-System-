@@ -6,6 +6,7 @@ from datetime import datetime
 
 # Check Vacant Rooms
 def check_vacant_rooms():
+    # this is all i know ok ?s
     
     """Display all vacant rooms."""
     connection = database_connection.connect_to_database()
