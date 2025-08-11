@@ -17,7 +17,7 @@ def create_database_if_not_exists(db_name="hotel1"):
 
         if not database_exists:
             cursor.execute(f"CREATE DATABASE `{db_name}`")
-            # Removed: print(f"Database '{db_name}' created successfully.")
+            # Removed: print(f"Database '{db_name}' created successfully. wow this is unexpected ")
 
         cursor.close()
         connection.close()
