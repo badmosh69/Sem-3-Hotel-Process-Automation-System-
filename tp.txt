@@ -1,0 +1,28 @@
+1. Admin
+   i. manage staff
+        1. Add Staff
+        2. Remove Staff
+        3. View All Staff
+        4. Update Staff Details
+            1. Update Name
+            2. Update Age
+            3. Update Gender
+            4. Update Contact
+            5. Update Address
+            6. Update Designation
+            7. Update Shift
+   ii. booking
+   iii.billing
+   iv.manage room
+        1. Add rooms
+        2. Remove rooms
+        3. View All rooms
+   v.analytics
+        1. vacant room
+        2. sales over time
+
+2. user/staff 
+    1. Booking Room
+    2. Billing and Payment (CheakOut)
+    3. Check Vacant Rooms
+   
